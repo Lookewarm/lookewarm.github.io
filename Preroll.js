@@ -1,8 +1,7 @@
 // Import React and Components
 
 // Import Styling
-import '../scss/project.scss'
-import '../scss/preroll.scss'
+import '/preroll.scss'
 
 // Import our Components
 import { Slate, Timer } from 'components/mantle'
