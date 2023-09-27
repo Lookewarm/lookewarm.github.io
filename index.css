@@ -47,8 +47,17 @@ body{
     width:100px;
 }
 
+.youtube{
+    width:560px;
+    height:315px;
+}
+
 @media only screen and (max-device-width: 480px) {
     .contents{
         width:480px;
+    }
+    .youtube{
+        width:400px;
+        height:225px;
     }
 }
